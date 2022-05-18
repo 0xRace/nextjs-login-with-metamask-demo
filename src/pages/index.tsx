@@ -27,8 +27,6 @@ const Home: NextPage = () => {
             </h1>
           </div>
           <p className="py-6">
-            This is an example to demonstrate how to use metamask for
-            authentication.
           </p>
           <div className="flex items-center justify-center flex-col">
             {user.success ? (
